@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "callonweb",
+    "packageName": "com.sphinix.callonweb",
+    "packageFolder": "com/sphinix/callonweb",
+    "authenticationType": "session",
+    "hibernateCache": "hazelcast",
+    "clusteredHttpSession": "hazelcast",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "6c26349756edc9e997bfbb77bc1badb875c7632e",
+    "testFrameworks": [
+      "cucumber"
+    ]
+  }
+}
